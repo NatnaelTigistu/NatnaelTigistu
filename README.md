@@ -14,5 +14,5 @@ Interests: Artificial Intelligence, Augmented Reality, open-source contributions
 ## Funfact
 - I am a big fan of anime
 
-Looking for internship opportunities in web development or data science.
+Looking for internship opportunities in Artificial Intelligence or Augmented Reality.
 
