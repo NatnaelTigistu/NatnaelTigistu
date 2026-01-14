@@ -5,7 +5,6 @@ Interests: Artificial Intelligence, Augmented Reality, open-source contributions
 
 ## Pinned projects
 - **CNN** — a program that identifies numbers using machine learning.
-- **Ethio-Gregorian-Calendar** — A c++ program that prints the Ethiopian and Gregoryian calender after receiving the required year.
 
 ## Contact
 - Email: habtethiop@gmail.com
@@ -14,5 +13,5 @@ Interests: Artificial Intelligence, Augmented Reality, open-source contributions
 ## Funfact
 - I am a big fan of anime
 
-Looking for internship opportunities in Artificial Intelligence or Augmented Reality.
+Looking for internship opportunities in Artificial Intelligence.
 
