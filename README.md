@@ -8,7 +8,7 @@ Interests: Artificial Intelligence, Augmented Reality, open-source contributions
 
 ## Contact
 - Email: natnael.tigistu.work@gmail.com
-- LinkedIn: linkedin.com/in/natnael-tigistu
+- LinkedIn: https://www.linkedin.com/in/natnael-tigistu/
 
 ## Funfact
 - I am a big fan of anime
