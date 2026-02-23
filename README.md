@@ -1,7 +1,7 @@
 # Natnael Tigistu
 
 Third-year Computer Science student at Addis Ababa University.  
-Interests: Artificial Intelligence, Augmented Reality, open-source contributions.
+Interests: Artificial Intelligence, Algorithms and security, open-source contributions.
 
 ## Pinned projects
 - **CNN** — a program that identifies numbers using machine learning.
