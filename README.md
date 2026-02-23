@@ -7,8 +7,8 @@ Interests: Artificial Intelligence, Augmented Reality, open-source contributions
 - **CNN** — a program that identifies numbers using machine learning.
 
 ## Contact
-- Email: habtethiop@gmail.com
-- LinkedIn: https://www.linkedin.com/in/habtethiop
+- Email: natnael.tigistu.work@gmail.com
+- LinkedIn: linkedin.com/in/natnael-tigistu
 
 ## Funfact
 - I am a big fan of anime
